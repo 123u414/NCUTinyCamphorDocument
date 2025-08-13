@@ -292,11 +292,6 @@ https://ncusuqyzx-7g8yho2d1212c0b8-1326677958.tcloudbaseapp.com/__auth/?env_id=n
 
 ---
 
-如有疑问可联系开发者。\
-QQ: 1652888156\
-WX: Sadak_X\
-EMAIL: <sadak_s@foxmail.com>
-
 <style>
     img {
         width: 80%;
